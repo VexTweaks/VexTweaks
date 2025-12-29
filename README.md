@@ -1,6 +1,6 @@
 # Vex Tweaks
 
-![Vex Tweaks Logo]([https://github.com/VexTweaks/VexTweaks/raw/main/logo.png](https://github.com/VexTweaks/VexTweaks/blob/main/VexTweaksBanner.png))
+![Vex Tweaks Logo](https://github.com/VexTweaks/VexTweaks/blob/main/VexTweaksBanner.png)
 
 **Vex Tweaks** is a Windows 11 optimization tool designed to enhance system performance, streamline background processes, and give users more control over their PC’s settings. This repository is dedicated to distributing the official releases of the software. No source code is included here.
 
